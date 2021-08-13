@@ -1,0 +1,3 @@
+rootProject.name = "Activity_Plugin"
+include ':app'
+include ':activity_plugin'
